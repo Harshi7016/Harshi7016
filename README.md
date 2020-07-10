@@ -8,5 +8,5 @@
 - 💬 Ask me about Front End Development.
 - 📫 How to reach me: https://www.linkedin.com/in/harshith-v-7016ece/
 - 😄 Pronouns: He,Dev
-- ⚡ Fun fact: I can eat 40 Jamuns in one minute.
+- ⚡ Fun fact: I can eat 39.5 Jamuns in one minute.
 
