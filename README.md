@@ -2,11 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshi7016" alt="harshi7016" /> </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Harshith%20Venkatesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshith-v-7016ece/)](https://www.linkedin.com/in/harshith-v-7016ece/)
-[![Instagram Badge](https://img.shields.io/badge/-Harshith%20Venkatesh-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/harshith_bing/)](https://instagram.com/harshith_bing/)
-[![Medium Badge](https://img.shields.io/badge/-Harshith%20Venkatesh-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@harshithece7016/)](https://medium.com/@harshithece7016)
-[![Gmail Badge](https://img.shields.io/badge/-Harshith%20Venkatesh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:harshithece7016@gmail.com)](mailto:harshithece7016@gmail.com)
-
 
 - 🔭 I’m currently working in CenturyLink India 
 - 🌱 I’m currently learning Angular7+,ReactJS,VanillaJS,NodeJS,ExpressJS,MongodB
@@ -33,11 +28,11 @@
 
 ### how to contact me?
 
-- [email](harshithece7016@gmail.com)
-- [Twitter](https://twitter.com/HarshithVenkat9)
-- [LinkedIn](https://www.linkedin.com/in/harshith-v-7016ece/)
-- [instagram](http://instagram.com/harshith_bing/)
-- [Medium](https://medium.com/@harshithece7016)
+[![Linkedin Badge](https://img.shields.io/badge/-Harshith%20Venkatesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshith-v-7016ece/)](https://www.linkedin.com/in/harshith-v-7016ece/)
+[![Instagram Badge](https://img.shields.io/badge/-Harshith%20Venkatesh-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/harshith_bing/)](https://instagram.com/harshith_bing/)
+[![Medium Badge](https://img.shields.io/badge/-Harshith%20Venkatesh-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@harshithece7016/)](https://medium.com/@harshithece7016)
+[![Gmail Badge](https://img.shields.io/badge/-harshithece7016@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:harshithece7016@gmail.com)](mailto:harshithece7016@gmail.com)
+
 
 ### projects
 
