@@ -39,7 +39,7 @@
 
 My projects:
 
-#### 1. I am the Onge Who Knocks
+#### 1. I am the One Who Knocks
 
 ![project image](https://i.ibb.co/7Q8QTyj/project5.png)
 
