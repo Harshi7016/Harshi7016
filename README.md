@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harshith Venkatesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshi7016" alt="harshi7016" /> </p>
-# Hi👋🏻‍💻 [Harshith Venkatesh](harshith-venkatesh.netlify.app) 
 
-[![Linkedin Badge](https://img.shields.io/badge/-harshith-v-7016ece-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/harshith-v-7016ece/)](https://www.linkedin.com/in/harshith-v-7016ece/) [![Twitter Badge](http://img.shields.io/badge/-@ashleymavericks-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ashlyemavericks)](https://twitter.com/ashlyemavericks) [![Medium Badge](http://img.shields.io/badge/-@ashleymavericks-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@ashleymavericks)](https://medium.com/@ashleymavericks) [![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/ashleymavericks/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-singhanurag024-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:singhanurag024@gmail.com)](mailto:singhanurag024@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/harshith-v-7016ece/)
+[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/harshith_bing/)
+[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@harshithece7016)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:harshithece7016@gmail.com)
 
 
 - 🔭 I’m currently working in CenturyLink India 
