@@ -26,13 +26,6 @@
 [![Medium Badge](https://img.shields.io/badge/-Harshith%20Venkatesh-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@harshithece7016/)](https://medium.com/@harshithece7016)
 [![Gmail Badge](https://img.shields.io/badge/-harshithece7016@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:harshithece7016@gmail.com)](mailto:harshithece7016@gmail.com)
 
-### Statistics
-<br>
-
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=harshi7016&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshi7016&layout=compact&theme=buefy" alt="languages" height="165">
-</p>
 
 
 ### projects
