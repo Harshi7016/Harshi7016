@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshi7016" alt="harshi7016" /> </p>
 
 
-- 🔭 I’m currently working in CenturyLink India 
+- 🔭 I’m currently working in Lumen Technologies India 
 - 🌱 I’m currently learning Angular7+,ReactJS,VanillaJS,NodeJS,ExpressJS,MongodB
 - 👯 I’m looking to collaborate on Web Applications
 - 🤔 I’m looking for help with Open Source Projects
